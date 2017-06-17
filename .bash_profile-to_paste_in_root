@@ -1,0 +1,6 @@
+source ~user/.bashrc/git.bash
+source ~user/.bashrc/editor.bash
+source ~user/.bashrc/rbenv.bash
+source ~user/.bashrc/git-aliases.bash
+
+PATH=$PATH:usr/local/mysql/bin
